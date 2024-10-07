@@ -1,24 +1,21 @@
-# Web Dev Starter Code
+# Module 7 - Layout Task
 
 ## Overview
 
-TODO: Write a project description
+This project includes a simple website with a preset HTML file and custom CSS file. The CSS of the wesbite was modified in order to bring 
+it more in line with a given example that includes a number of features such as grid based images, a sticky navigation bar that equally 
+spaced, wrapping text around an image adn a few more smaller features.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+- Information on flexboxes and their types: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+- Information on Grids: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
+- Information on column layout and design: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Multiple-column_Layout
+- General Error Checking and Debugging: ChatGpt.com
 
-A simple bulleted list below is sufficient. For example:
+## How to Run
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- To get view the website, simply clone the git repo into your perfered IDE(recommended VSCode).
+- Once this is complete, open the project folder and then press F1 to open the top command line.
+- Search for Live Preview: Start Server in order to being a local intance of the website/browser.
+- Enjoy.
